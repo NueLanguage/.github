@@ -1,5 +1,5 @@
 # 🍑 nue Programming Language
-![nue Banner](./nue%20Banner.png)
+![nue Banner](https://raw.githubusercontent.com/nue-lang/.github/main/profile/nue%20Banner.png)
 
 nue is a powerfully lightweight and efficient programming language written in C by [Numelon](https://github.com/numelon-oss).
 
