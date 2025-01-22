@@ -9,4 +9,4 @@ Currently we are working on the most important thing - getting nue working in a 
 ## 😎 Get involved in the fun
 Anyone who wants to help maintain and add amazing features to nue is welcomed with open hands! 🤗
 - [View nue's source code](https://github.com/nue-lang/nue)
-- [Talk with the community about nue](https://discord.gg/Hr3GYj7nsc)
+- [Talk with the community about nue](https://discord.gg/VHDnSxgkGa)
